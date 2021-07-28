@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "service-multiple-instances"
+    }
+  },
+  "defaultProject": "service-multiple-instances",
+  "cli": {
+    "analytics": false
+  }
 }

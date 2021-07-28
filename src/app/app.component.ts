@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'service-multiple-instances';
+  title = 'Avoiding Angular duplicate HTTP requests with the RxJs shareReplay operator';  
+
+  ngOnInit(): void {
+  }
 }
